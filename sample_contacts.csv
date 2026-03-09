@@ -1,0 +1,501 @@
+﻿ticket_id;data_abertura;canal;categoria;descricao;status;tempo_resolucao_min;agente
+TK-20250001;06/05/2025;Chat;Técnico - Acesso;Não consigo fazer login na plataforma;Em andamento;13;Ana Silva
+TK-20250002;05/11/2025;Chat;Operacional - Resgate;Cliente quer saber quando cai o resgate do fundo Verde AM;Em andamento;10;Carlos Souza
+TK-20250003;04/01/2025;Telefone;Informacional - Extrato;Como exporto meu extrato em PDF?;Pendente;3;Carlos Souza
+TK-20250004;19/02/2025;Chat;Pós-venda - Recomendação;Tem algum fundo melhor que o CDB do banco?;Em andamento;16;Marina Costa
+TK-20250005;05/03/2025;WhatsApp;Operacional - Portabilidade;Quero transferir meus fundos de outra corretora;Resolvido;1;Pedro Lima
+TK-20250006;05/02/2025;Chat;Técnico - Acesso;Minha conta foi bloqueada;Resolvido;7;Carlos Souza
+TK-20250007;21/08/2025;E-mail;Operacional - Resgate;Investidor perguntando sobre prazo de liquidação do resgate;Resolvido;6;Marina Costa
+TK-20250008;01/10/2025;Telefone;Operacional - Portabilidade;Quero transferir meus fundos de outra corretora;Pendente;9;Carlos Souza
+TK-20250009;23/04/2025;Telefone;Informacional - Rentabilidade;Onde vejo a rentabilidade consolidada da minha carteira?;Resolvido;8;Ana Silva
+TK-20250010;11/06/2025;Chat;Informacional - Rentabilidade;Onde vejo a rentabilidade consolidada da minha carteira?;Pendente;1;Pedro Lima
+TK-20250011;13/03/2025;Chat;Regulatório - Atualização cadastral;Minha conta foi bloqueada por pendência cadastral;Em andamento;7;Julia Santos
+TK-20250012;28/02/2025;Chat;Tributário - Informe IR;Como declaro fundos de investimento no IR?;Pendente;17;Carlos Souza
+TK-20250013;28/04/2025;WhatsApp;Tributário - Informe IR;Preciso do informe de rendimentos para declarar IR;Em andamento;12;Ana Silva
+TK-20250014;21/08/2025;Chat;Informacional - Rentabilidade;Quanto rendeu meu fundo SPX Nimitz este mês?;Em andamento;1;Marina Costa
+TK-20250015;17/11/2025;Chat;Pós-venda - Recomendação;Quero diversificar, o que sugerem?;Em andamento;16;Julia Santos
+TK-20250016;10/01/2025;Chat;Operacional - Aplicação;Como faço para aplicar no fundo Kapitalo Kappa?;Resolvido;11;Marina Costa
+TK-20250017;10/02/2025;Chat;Operacional - Portabilidade;Quero transferir meus fundos de outra corretora;Resolvido;12;Pedro Lima
+TK-20250018;26/03/2025;Chat;Operacional - Resgate;Investidor perguntando sobre prazo de liquidação do resgate;Pendente;7;Julia Santos
+TK-20250019;10/12/2025;E-mail;Operacional - Aplicação;Tentei aplicar mas apareceu erro na plataforma;Em andamento;5;Pedro Lima
+TK-20250020;28/04/2025;E-mail;Operacional - Resgate;Cadê meu dinheiro? Solicitei resgate há 10 dias;Resolvido;8;Ana Silva
+TK-20250021;19/06/2025;Chat;Técnico - Erro plataforma;Erro ao tentar acessar a carteira de fundos;Resolvido;8;Carlos Souza
+TK-20250022;31/08/2025;Telefone;Operacional - Resgate;Qual o prazo de resgate do fundo Kapitalo Kappa?;Resolvido;5;Carlos Souza
+TK-20250023;28/08/2025;WhatsApp;Operacional - Resgate;Resgate do fundo Kinea Renda Fixa não caiu na conta ainda;Resolvido;13;Ana Silva
+TK-20250024;02/10/2025;E-mail;Onboarding - Cadastro;Como abro minha conta na corretora?;Resolvido;12;Pedro Lima
+TK-20250025;15/08/2025;Telefone;Operacional - Portabilidade;Portabilidade travada, preciso de ajuda;Resolvido;22;Julia Santos
+TK-20250026;27/03/2025;E-mail;Onboarding - Suitability;Por que preciso preencher questionário de perfil?;Resolvido;14;Pedro Lima
+TK-20250027;02/01/2025;WhatsApp;Regulatório - Atualização cadastral;Como atualizo meus dados cadastrais?;Pendente;6;Marina Costa
+TK-20250028;22/04/2025;WhatsApp;Pós-venda - Insatisfação rentabilidade;Quero reclamar sobre a gestão do fundo;Em andamento;21;Julia Santos
+TK-20250029;02/09/2025;E-mail;Operacional - Resgate;Cadê meu dinheiro? Solicitei resgate há 1 dias;Resolvido;12;Julia Santos
+TK-20250030;12/12/2025;WhatsApp;Onboarding - Suitability;Por que preciso preencher questionário de perfil?;Resolvido;11;Pedro Lima
+TK-20250031;21/01/2025;E-mail;Regulatório - Atualização cadastral;Minha conta foi bloqueada por pendência cadastral;Em andamento;4;Pedro Lima
+TK-20250032;03/05/2025;Chat;Operacional - Portabilidade;Status da portabilidade que solicitei há 12 dias;Resolvido;6;Carlos Souza
+TK-20250033;15/11/2025;WhatsApp;Informacional - Extrato;O extrato não mostra as movimentações de agosto;Resolvido;1;Ana Silva
+TK-20250034;09/07/2025;Chat;Operacional - Resgate;Cadê meu dinheiro? Solicitei resgate há 15 dias;Em andamento;6;Pedro Lima
+TK-20250035;28/09/2025;Chat;Técnico - Erro plataforma;Tela de investimentos não carrega;Resolvido;11;Julia Santos
+TK-20250036;11/10/2025;Chat;Regulatório - Atualização cadastral;Recebi e-mail pedindo atualização de dados, é verdade?;Em andamento;7;Marina Costa
+TK-20250037;16/05/2025;E-mail;Operacional - Aplicação;Qual o valor mínimo de aplicação do fundo Verde AM?;Resolvido;11;Marina Costa
+TK-20250038;23/11/2025;WhatsApp;Operacional - Portabilidade;Quero transferir meus fundos de outra corretora;Pendente;10;Carlos Souza
+TK-20250039;08/02/2025;Telefone;Tributário - Come-cotas;Como funciona o come-cotas com a nova lei?;Em andamento;15;Carlos Souza
+TK-20250040;20/05/2025;Chat;Tributário - Come-cotas;Come-cotas diminuiu meu patrimônio, perdi dinheiro?;Resolvido;12;Carlos Souza
+TK-20250041;21/03/2025;WhatsApp;Informacional - Rentabilidade;Como comparar a rentabilidade do meu fundo com o benchmark?;Resolvido;12;Carlos Souza
+TK-20250042;20/06/2025;Telefone;Regulatório - Atualização cadastral;Como atualizo meus dados cadastrais?;Resolvido;6;Pedro Lima
+TK-20250043;20/01/2025;WhatsApp;Operacional - Portabilidade;Status da portabilidade que solicitei há 2 dias;Resolvido;9;Carlos Souza
+TK-20250044;09/04/2025;Chat;Informacional - Rentabilidade;A rentabilidade do meu fundo está abaixo do CDI, por quê?;Resolvido;1;Marina Costa
+TK-20250045;24/07/2025;Telefone;Pós-venda - Recomendação;Tem algum fundo melhor que o CDB do banco?;Resolvido;16;Julia Santos
+TK-20250046;25/02/2025;E-mail;Operacional - Portabilidade;Status da portabilidade que solicitei há 5 dias;Resolvido;7;Marina Costa
+TK-20250047;08/04/2025;Chat;Informacional - Extrato;Não estou conseguindo ver meu extrato de Alaska Black;Resolvido;1;Pedro Lima
+TK-20250048;07/12/2025;WhatsApp;Técnico - Erro plataforma;Plataforma fora do ar?;Resolvido;9;Julia Santos
+TK-20250049;17/09/2025;Chat;Técnico - Acesso;Não consigo fazer login na plataforma;Resolvido;7;Pedro Lima
+TK-20250050;13/12/2025;Telefone;Operacional - Resgate;Investidor perguntando sobre prazo de liquidação do resgate;Em andamento;9;Carlos Souza
+TK-20250051;26/03/2025;E-mail;Tributário - Informe IR;O informe de rendimentos está errado;Pendente;6;Marina Costa
+TK-20250052;16/11/2025;Telefone;Tributário - Come-cotas;Como funciona o come-cotas com a nova lei?;Resolvido;14;Carlos Souza
+TK-20250053;06/05/2025;WhatsApp;Operacional - Aplicação;Tentei aplicar mas apareceu erro na plataforma;Resolvido;1;Julia Santos
+TK-20250054;21/02/2025;Telefone;Tributário - Informe IR;Onde baixo o informe de rendimentos?;Pendente;14;Ana Silva
+TK-20250055;26/01/2025;E-mail;Operacional - Aplicação;Tentei aplicar mas apareceu erro na plataforma;Pendente;10;Ana Silva
+TK-20250056;10/11/2025;WhatsApp;Tributário - Come-cotas;O imposto do come-cotas já foi descontado?;Em andamento;15;Pedro Lima
+TK-20250057;19/08/2025;Chat;Informacional - Extrato;Como exporto meu extrato em PDF?;Resolvido;5;Carlos Souza
+TK-20250058;27/05/2025;Chat;Técnico - Acesso;Esqueci minha senha, como recupero?;Resolvido;5;Marina Costa
+TK-20250059;16/07/2025;Telefone;Tributário - Come-cotas;O que é come-cotas? Vi que minhas cotas diminuíram;Pendente;7;Ana Silva
+TK-20250060;19/07/2025;WhatsApp;Informacional - Extrato;Não estou conseguindo ver meu extrato de Verde AM;Resolvido;7;Julia Santos
+TK-20250061;30/06/2025;Chat;Onboarding - Suitability;Meu perfil não me deixa investir no fundo Alaska Black;Pendente;3;Pedro Lima
+TK-20250062;12/08/2025;E-mail;Onboarding - Cadastro;Meu cadastro está pendente, o que falta?;Resolvido;8;Pedro Lima
+TK-20250063;07/03/2025;WhatsApp;Técnico - Acesso;O app não abre, fica carregando;Resolvido;14;Julia Santos
+TK-20250064;11/03/2025;WhatsApp;Técnico - Acesso;Não consigo fazer login na plataforma;Resolvido;7;Carlos Souza
+TK-20250065;17/06/2025;Chat;Operacional - Portabilidade;Portabilidade travada, preciso de ajuda;Resolvido;8;Pedro Lima
+TK-20250066;04/10/2025;Chat;Operacional - Portabilidade;Quero transferir meus fundos de outra corretora;Resolvido;1;Marina Costa
+TK-20250067;07/05/2025;Chat;Técnico - Acesso;Não consigo fazer login na plataforma;Em andamento;11;Ana Silva
+TK-20250068;25/12/2025;Chat;Técnico - Acesso;Não consigo fazer login na plataforma;Resolvido;11;Marina Costa
+TK-20250069;19/03/2025;Telefone;Tributário - Informe IR;Preciso do informe de rendimentos para declarar IR;Pendente;14;Pedro Lima
+TK-20250070;26/02/2025;WhatsApp;Tributário - Informe IR;Onde baixo o informe de rendimentos?;Resolvido;11;Ana Silva
+TK-20250071;17/09/2025;Chat;Tributário - Come-cotas;Como funciona o come-cotas com a nova lei?;Pendente;20;Pedro Lima
+TK-20250072;01/04/2025;Telefone;Técnico - Acesso;O app não abre, fica carregando;Em andamento;16;Marina Costa
+TK-20250073;31/10/2025;Chat;Onboarding - Cadastro;Quanto tempo demora para abrir a conta?;Resolvido;9;Carlos Souza
+TK-20250074;14/07/2025;Chat;Pós-venda - Recomendação;Preciso de ajuda para montar minha carteira;Resolvido;19;Pedro Lima
+TK-20250075;24/06/2025;Chat;Operacional - Aplicação;Aplicação não aparece na minha carteira ainda;Resolvido;3;Julia Santos
+TK-20250076;08/09/2025;E-mail;Operacional - Aplicação;Como faço para aplicar no fundo Verde AM?;Pendente;6;Carlos Souza
+TK-20250077;17/02/2025;Chat;Técnico - Acesso;O app não abre, fica carregando;Resolvido;8;Pedro Lima
+TK-20250078;19/06/2025;Chat;Informacional - Extrato;O extrato não mostra as movimentações de setembro;Resolvido;9;Pedro Lima
+TK-20250079;09/04/2025;Chat;Informacional - Rentabilidade;Onde vejo a rentabilidade consolidada da minha carteira?;Resolvido;7;Julia Santos
+TK-20250080;01/06/2025;Chat;Operacional - Portabilidade;Como funciona a portabilidade de fundos?;Resolvido;14;Carlos Souza
+TK-20250081;28/01/2025;E-mail;Operacional - Resgate;Qual o prazo de resgate do fundo Itaú Multimercado?;Pendente;8;Carlos Souza
+TK-20250082;05/04/2025;WhatsApp;Operacional - Portabilidade;Portabilidade travada, preciso de ajuda;Pendente;8;Marina Costa
+TK-20250083;23/10/2025;E-mail;Operacional - Resgate;Cliente quer saber quando cai o resgate do fundo Alaska Black;Resolvido;11;Ana Silva
+TK-20250084;02/08/2025;E-mail;Informacional - Rentabilidade;Quanto rendeu meu fundo Verde AM este mês?;Resolvido;9;Julia Santos
+TK-20250085;02/06/2025;WhatsApp;Pós-venda - Recomendação;Preciso de ajuda para montar minha carteira;Resolvido;13;Pedro Lima
+TK-20250086;16/05/2025;Telefone;Pós-venda - Insatisfação rentabilidade;Meu fundo só perde dinheiro, quero resgatar tudo;Resolvido;14;Carlos Souza
+TK-20250087;19/08/2025;Telefone;Operacional - Aplicação;Como faço para aplicar no fundo Itaú Multimercado?;Resolvido;11;Pedro Lima
+TK-20250088;16/05/2025;Telefone;Operacional - Portabilidade;Portabilidade travada, preciso de ajuda;Resolvido;8;Julia Santos
+TK-20250089;18/03/2025;WhatsApp;Informacional - Extrato;Não estou conseguindo ver meu extrato de Adam Macro;Resolvido;11;Carlos Souza
+TK-20250090;09/03/2025;E-mail;Tributário - Informe IR;O informe de rendimentos está errado;Pendente;14;Pedro Lima
+TK-20250091;15/06/2025;E-mail;Operacional - Resgate;Qual o prazo de resgate do fundo XP Ref DI?;Resolvido;8;Ana Silva
+TK-20250092;18/05/2025;E-mail;Regulatório - Atualização cadastral;Minha conta foi bloqueada por pendência cadastral;Pendente;13;Carlos Souza
+TK-20250093;12/08/2025;E-mail;Tributário - Come-cotas;Como funciona o come-cotas com a nova lei?;Pendente;9;Ana Silva
+TK-20250094;22/12/2025;E-mail;Técnico - Acesso;Não consigo fazer login na plataforma;Em andamento;12;Pedro Lima
+TK-20250095;15/06/2025;Chat;Operacional - Resgate;Resgate do fundo BTG Tesouro Selic não caiu na conta ainda;Em andamento;8;Pedro Lima
+TK-20250096;07/04/2025;E-mail;Regulatório - Atualização cadastral;Minha conta foi bloqueada por pendência cadastral;Pendente;7;Julia Santos
+TK-20250097;09/10/2025;Chat;Técnico - Acesso;O app não abre, fica carregando;Pendente;13;Marina Costa
+TK-20250098;09/06/2025;E-mail;Operacional - Resgate;Qual o prazo de resgate do fundo Verde AM?;Pendente;4;Julia Santos
+TK-20250099;28/11/2025;Telefone;Operacional - Resgate;Investidor perguntando sobre prazo de liquidação do resgate;Resolvido;4;Pedro Lima
+TK-20250100;10/10/2025;Chat;Onboarding - Cadastro;Quanto tempo demora para abrir a conta?;Em andamento;9;Carlos Souza
+TK-20250101;24/06/2025;E-mail;Tributário - Come-cotas;Come-cotas diminuiu meu patrimônio, perdi dinheiro?;Resolvido;10;Ana Silva
+TK-20250102;25/04/2025;E-mail;Tributário - Informe IR;Como declaro fundos de investimento no IR?;Resolvido;4;Pedro Lima
+TK-20250103;16/07/2025;Chat;Regulatório - Atualização cadastral;Recebi e-mail pedindo atualização de dados, é verdade?;Resolvido;6;Pedro Lima
+TK-20250104;19/03/2025;E-mail;Onboarding - Cadastro;Quanto tempo demora para abrir a conta?;Resolvido;14;Ana Silva
+TK-20250105;15/11/2025;Telefone;Tributário - Come-cotas;O imposto do come-cotas já foi descontado?;Resolvido;18;Pedro Lima
+TK-20250106;29/11/2025;Chat;Operacional - Portabilidade;Como funciona a portabilidade de fundos?;Em andamento;11;Marina Costa
+TK-20250107;05/10/2025;Chat;Informacional - Rentabilidade;Onde vejo a rentabilidade consolidada da minha carteira?;Resolvido;1;Ana Silva
+TK-20250108;27/12/2025;WhatsApp;Operacional - Aplicação;Como faço para aplicar no fundo Alaska Black?;Resolvido;1;Pedro Lima
+TK-20250109;29/01/2025;Chat;Técnico - Erro plataforma;Tela de investimentos não carrega;Pendente;13;Marina Costa
+TK-20250110;09/11/2025;E-mail;Tributário - Informe IR;Onde baixo o informe de rendimentos?;Pendente;15;Carlos Souza
+TK-20250111;01/04/2025;WhatsApp;Tributário - Informe IR;Onde baixo o informe de rendimentos?;Resolvido;10;Pedro Lima
+TK-20250112;06/08/2025;Telefone;Informacional - Extrato;O extrato não mostra as movimentações de novembro;Resolvido;2;Pedro Lima
+TK-20250113;15/07/2025;E-mail;Operacional - Aplicação;Aplicação não aparece na minha carteira ainda;Resolvido;11;Julia Santos
+TK-20250114;18/12/2025;Telefone;Onboarding - Cadastro;Quanto tempo demora para abrir a conta?;Em andamento;9;Ana Silva
+TK-20250115;07/11/2025;Telefone;Pós-venda - Insatisfação rentabilidade;Quero reclamar sobre a gestão do fundo;Resolvido;10;Carlos Souza
+TK-20250116;27/11/2025;Chat;Pós-venda - Insatisfação rentabilidade;A rentabilidade prometida era diferente do que estou tendo;Resolvido;10;Pedro Lima
+TK-20250117;06/03/2025;Chat;Tributário - Informe IR;O informe de rendimentos está errado;Resolvido;3;Julia Santos
+TK-20250118;01/06/2025;Telefone;Onboarding - Cadastro;Meu cadastro está pendente, o que falta?;Resolvido;8;Marina Costa
+TK-20250119;13/12/2025;Telefone;Informacional - Extrato;Não estou conseguindo ver meu extrato de Itaú Multimercado;Em andamento;1;Pedro Lima
+TK-20250120;08/07/2025;Telefone;Operacional - Resgate;Cadê meu dinheiro? Solicitei resgate há 2 dias;Em andamento;13;Marina Costa
+TK-20250121;30/08/2025;Chat;Informacional - Rentabilidade;Onde vejo a rentabilidade consolidada da minha carteira?;Resolvido;7;Julia Santos
+TK-20250122;29/07/2025;Chat;Operacional - Resgate;Resgate do fundo JGP Strategy não caiu na conta ainda;Resolvido;6;Ana Silva
+TK-20250123;03/10/2025;Chat;Informacional - Rentabilidade;Meu fundo rendeu negativo, o que aconteceu?;Resolvido;1;Pedro Lima
+TK-20250124;21/03/2025;Telefone;Tributário - Come-cotas;Como funciona o come-cotas com a nova lei?;Em andamento;6;Pedro Lima
+TK-20250125;22/04/2025;E-mail;Informacional - Rentabilidade;Onde vejo a rentabilidade consolidada da minha carteira?;Resolvido;9;Carlos Souza
+TK-20250126;08/04/2025;WhatsApp;Tributário - Come-cotas;Quando acontece o come-cotas?;Resolvido;15;Pedro Lima
+TK-20250127;11/01/2025;Chat;Técnico - Acesso;Esqueci minha senha, como recupero?;Resolvido;17;Marina Costa
+TK-20250128;21/04/2025;Telefone;Operacional - Aplicação;Como faço para aplicar no fundo Adam Macro?;Resolvido;7;Carlos Souza
+TK-20250129;16/03/2025;WhatsApp;Pós-venda - Recomendação;Quero diversificar, o que sugerem?;Resolvido;15;Julia Santos
+TK-20250130;02/05/2025;E-mail;Regulatório - Atualização cadastral;Recebi e-mail pedindo atualização de dados, é verdade?;Resolvido;6;Ana Silva
+TK-20250131;27/09/2025;Chat;Operacional - Portabilidade;Quero transferir meus fundos de outra corretora;Pendente;4;Ana Silva
+TK-20250132;17/04/2025;Chat;Tributário - Informe IR;Preciso do informe de rendimentos para declarar IR;Resolvido;13;Ana Silva
+TK-20250133;09/09/2025;Telefone;Informacional - Extrato;Preciso do extrato detalhado para meu contador;Resolvido;7;Pedro Lima
+TK-20250134;21/11/2025;E-mail;Operacional - Aplicação;Como faço para aplicar no fundo Itaú Multimercado?;Pendente;5;Marina Costa
+TK-20250135;04/04/2025;WhatsApp;Tributário - Informe IR;O informe de rendimentos está errado;Resolvido;4;Julia Santos
+TK-20250136;18/02/2025;Chat;Informacional - Rentabilidade;Onde vejo a rentabilidade consolidada da minha carteira?;Resolvido;8;Marina Costa
+TK-20250137;04/02/2025;Chat;Informacional - Rentabilidade;A rentabilidade do meu fundo está abaixo do CDI, por quê?;Resolvido;1;Ana Silva
+TK-20250138;15/10/2025;E-mail;Informacional - Rentabilidade;A rentabilidade do meu fundo está abaixo do CDI, por quê?;Pendente;7;Ana Silva
+TK-20250139;04/11/2025;Chat;Informacional - Rentabilidade;Meu fundo rendeu negativo, o que aconteceu?;Em andamento;2;Ana Silva
+TK-20250140;08/07/2025;Chat;Informacional - Extrato;Como exporto meu extrato em PDF?;Em andamento;4;Marina Costa
+TK-20250141;11/11/2025;Telefone;Operacional - Aplicação;Aplicação não aparece na minha carteira ainda;Resolvido;3;Julia Santos
+TK-20250142;26/12/2025;Telefone;Técnico - Erro plataforma;Tela de investimentos não carrega;Resolvido;6;Marina Costa
+TK-20250143;25/07/2025;Chat;Operacional - Resgate;Investidor perguntando sobre prazo de liquidação do resgate;Resolvido;7;Ana Silva
+TK-20250144;09/06/2025;Telefone;Informacional - Extrato;Preciso do extrato detalhado para meu contador;Em andamento;2;Julia Santos
+TK-20250145;26/01/2025;Telefone;Operacional - Resgate;Cliente quer saber quando cai o resgate do fundo Itaú Multimercado;Pendente;5;Marina Costa
+TK-20250146;28/02/2025;Chat;Informacional - Extrato;Preciso do extrato detalhado para meu contador;Resolvido;1;Ana Silva
+TK-20250147;24/01/2025;Chat;Técnico - Acesso;O app não abre, fica carregando;Resolvido;13;Julia Santos
+TK-20250148;03/03/2025;Chat;Operacional - Aplicação;Tentei aplicar mas apareceu erro na plataforma;Resolvido;8;Pedro Lima
+TK-20250149;14/09/2025;E-mail;Operacional - Resgate;Resgate do fundo Adam Macro não caiu na conta ainda;Resolvido;2;Marina Costa
+TK-20250150;10/06/2025;E-mail;Informacional - Extrato;Não estou conseguindo ver meu extrato de Dynamo Cougar;Pendente;8;Julia Santos
+TK-20250151;11/01/2025;WhatsApp;Técnico - Erro plataforma;Erro 500 ao tentar fazer aplicação;Em andamento;4;Carlos Souza
+TK-20250152;05/05/2025;E-mail;Informacional - Rentabilidade;Quanto rendeu meu fundo Alaska Black este mês?;Em andamento;6;Pedro Lima
+TK-20250153;24/04/2025;Chat;Operacional - Resgate;Resgate do fundo SPX Nimitz não caiu na conta ainda;Resolvido;6;Carlos Souza
+TK-20250154;27/11/2025;Chat;Tributário - Come-cotas;Come-cotas diminuiu meu patrimônio, perdi dinheiro?;Resolvido;11;Carlos Souza
+TK-20250155;08/02/2025;Chat;Operacional - Aplicação;Tentei aplicar mas apareceu erro na plataforma;Pendente;8;Pedro Lima
+TK-20250156;14/08/2025;Chat;Informacional - Extrato;O extrato não mostra as movimentações de março;Resolvido;1;Pedro Lima
+TK-20250157;17/09/2025;Chat;Pós-venda - Recomendação;Tem algum fundo melhor que o CDB do banco?;Pendente;18;Pedro Lima
+TK-20250158;11/11/2025;E-mail;Operacional - Portabilidade;Quero transferir meus fundos de outra corretora;Pendente;8;Pedro Lima
+TK-20250159;16/04/2025;E-mail;Tributário - Informe IR;Preciso do informe de rendimentos para declarar IR;Pendente;18;Ana Silva
+TK-20250160;21/01/2025;Chat;Informacional - Rentabilidade;Quanto rendeu meu fundo Adam Macro este mês?;Pendente;10;Pedro Lima
+TK-20250161;10/07/2025;Chat;Tributário - Come-cotas;O imposto do come-cotas já foi descontado?;Em andamento;17;Marina Costa
+TK-20250162;14/12/2025;Chat;Informacional - Rentabilidade;Quanto rendeu meu fundo Kinea Renda Fixa este mês?;Em andamento;6;Marina Costa
+TK-20250163;06/12/2025;Chat;Regulatório - Atualização cadastral;Recebi e-mail pedindo atualização de dados, é verdade?;Resolvido;14;Marina Costa
+TK-20250164;08/06/2025;E-mail;Informacional - Rentabilidade;A rentabilidade do meu fundo está abaixo do CDI, por quê?;Resolvido;3;Marina Costa
+TK-20250165;18/09/2025;Chat;Técnico - Acesso;Não consigo fazer login na plataforma;Resolvido;11;Marina Costa
+TK-20250166;21/03/2025;Chat;Pós-venda - Recomendação;Preciso de ajuda para montar minha carteira;Em andamento;17;Ana Silva
+TK-20250167;09/03/2025;E-mail;Pós-venda - Recomendação;Qual fundo vocês recomendam para perfil conservador?;Resolvido;17;Carlos Souza
+TK-20250168;30/07/2025;Chat;Técnico - Acesso;Esqueci minha senha, como recupero?;Pendente;15;Carlos Souza
+TK-20250169;26/03/2025;Telefone;Tributário - Informe IR;O informe de rendimentos está errado;Resolvido;9;Carlos Souza
+TK-20250170;15/09/2025;E-mail;Informacional - Extrato;Preciso do extrato detalhado para meu contador;Resolvido;1;Carlos Souza
+TK-20250171;04/09/2025;WhatsApp;Onboarding - Cadastro;Meu cadastro está pendente, o que falta?;Resolvido;8;Julia Santos
+TK-20250172;20/05/2025;E-mail;Operacional - Resgate;Cadê meu dinheiro? Solicitei resgate há 13 dias;Resolvido;3;Julia Santos
+TK-20250173;19/08/2025;WhatsApp;Onboarding - Cadastro;Quanto tempo demora para abrir a conta?;Pendente;14;Ana Silva
+TK-20250174;15/01/2025;Chat;Operacional - Portabilidade;Portabilidade travada, preciso de ajuda;Resolvido;9;Ana Silva
+TK-20250175;30/08/2025;Telefone;Pós-venda - Recomendação;Quero diversificar, o que sugerem?;Pendente;14;Carlos Souza
+TK-20250176;08/10/2025;WhatsApp;Operacional - Resgate;Cliente quer saber quando cai o resgate do fundo SPX Nimitz;Em andamento;8;Julia Santos
+TK-20250177;04/03/2025;Chat;Informacional - Extrato;Não estou conseguindo ver meu extrato de SPX Nimitz;Em andamento;3;Pedro Lima
+TK-20250178;19/05/2025;E-mail;Tributário - Come-cotas;O imposto do come-cotas já foi descontado?;Resolvido;12;Julia Santos
+TK-20250179;13/02/2025;E-mail;Operacional - Portabilidade;Portabilidade travada, preciso de ajuda;Resolvido;12;Marina Costa
+TK-20250180;23/01/2025;E-mail;Pós-venda - Recomendação;Qual fundo vocês recomendam para perfil conservador?;Resolvido;13;Marina Costa
+TK-20250181;26/06/2025;Chat;Pós-venda - Insatisfação rentabilidade;Meu fundo só perde dinheiro, quero resgatar tudo;Em andamento;14;Ana Silva
+TK-20250182;31/03/2025;Telefone;Operacional - Resgate;Cadê meu dinheiro? Solicitei resgate há 6 dias;Pendente;4;Pedro Lima
+TK-20250183;23/08/2025;Chat;Técnico - Acesso;Esqueci minha senha, como recupero?;Resolvido;12;Carlos Souza
+TK-20250184;31/08/2025;Chat;Informacional - Rentabilidade;Onde vejo a rentabilidade consolidada da minha carteira?;Resolvido;1;Carlos Souza
+TK-20250185;05/03/2025;Telefone;Informacional - Rentabilidade;Quanto rendeu meu fundo Absolute Vertex este mês?;Pendente;4;Pedro Lima
+TK-20250186;12/09/2025;Chat;Informacional - Rentabilidade;Onde vejo a rentabilidade consolidada da minha carteira?;Resolvido;1;Julia Santos
+TK-20250187;09/08/2025;E-mail;Onboarding - Cadastro;Como abro minha conta na corretora?;Em andamento;9;Carlos Souza
+TK-20250188;07/08/2025;Chat;Informacional - Rentabilidade;Onde vejo a rentabilidade consolidada da minha carteira?;Resolvido;6;Pedro Lima
+TK-20250189;11/11/2025;WhatsApp;Informacional - Extrato;Não estou conseguindo ver meu extrato de JGP Strategy;Resolvido;10;Marina Costa
+TK-20250190;16/01/2025;Chat;Informacional - Rentabilidade;Como comparar a rentabilidade do meu fundo com o benchmark?;Pendente;7;Julia Santos
+TK-20250191;07/07/2025;Chat;Operacional - Resgate;Investidor perguntando sobre prazo de liquidação do resgate;Resolvido;3;Julia Santos
+TK-20250192;21/10/2025;Chat;Informacional - Rentabilidade;Onde vejo a rentabilidade consolidada da minha carteira?;Pendente;1;Marina Costa
+TK-20250193;06/04/2025;E-mail;Informacional - Rentabilidade;Onde vejo a rentabilidade consolidada da minha carteira?;Em andamento;10;Pedro Lima
+TK-20250194;22/12/2025;WhatsApp;Técnico - Erro plataforma;Erro 500 ao tentar fazer aplicação;Resolvido;14;Pedro Lima
+TK-20250195;16/08/2025;WhatsApp;Operacional - Resgate;Investidor perguntando sobre prazo de liquidação do resgate;Resolvido;6;Marina Costa
+TK-20250196;25/12/2025;E-mail;Operacional - Portabilidade;Como funciona a portabilidade de fundos?;Em andamento;3;Marina Costa
+TK-20250197;02/05/2025;Telefone;Operacional - Aplicação;Como faço para aplicar no fundo Verde AM?;Resolvido;4;Ana Silva
+TK-20250198;03/02/2025;Chat;Onboarding - Cadastro;Meu cadastro está pendente, o que falta?;Em andamento;8;Pedro Lima
+TK-20250199;12/06/2025;E-mail;Informacional - Rentabilidade;Meu fundo rendeu negativo, o que aconteceu?;Pendente;3;Pedro Lima
+TK-20250200;08/03/2025;E-mail;Regulatório - Atualização cadastral;Minha conta foi bloqueada por pendência cadastral;Resolvido;4;Ana Silva
+TK-20250201;15/06/2025;Chat;Tributário - Come-cotas;Come-cotas diminuiu meu patrimônio, perdi dinheiro?;Resolvido;13;Julia Santos
+TK-20250202;11/11/2025;E-mail;Técnico - Acesso;Minha conta foi bloqueada;Resolvido;7;Julia Santos
+TK-20250203;02/04/2025;Telefone;Tributário - Informe IR;Onde baixo o informe de rendimentos?;Resolvido;17;Ana Silva
+TK-20250204;16/02/2025;WhatsApp;Tributário - Informe IR;O informe de rendimentos está errado;Resolvido;13;Julia Santos
+TK-20250205;27/07/2025;Chat;Técnico - Acesso;Minha conta foi bloqueada;Resolvido;12;Ana Silva
+TK-20250206;10/06/2025;WhatsApp;Informacional - Extrato;Como exporto meu extrato em PDF?;Resolvido;8;Marina Costa
+TK-20250207;24/02/2025;Chat;Informacional - Rentabilidade;A rentabilidade do meu fundo está abaixo do CDI, por quê?;Resolvido;4;Pedro Lima
+TK-20250208;03/08/2025;Chat;Operacional - Resgate;Cliente quer saber quando cai o resgate do fundo SPX Nimitz;Resolvido;11;Carlos Souza
+TK-20250209;13/09/2025;E-mail;Tributário - Informe IR;O informe de rendimentos está errado;Pendente;21;Marina Costa
+TK-20250210;22/11/2025;E-mail;Tributário - Come-cotas;Como funciona o come-cotas com a nova lei?;Resolvido;13;Pedro Lima
+TK-20250211;16/05/2025;Telefone;Tributário - Come-cotas;O que é come-cotas? Vi que minhas cotas diminuíram;Resolvido;7;Marina Costa
+TK-20250212;17/07/2025;E-mail;Operacional - Aplicação;Qual o valor mínimo de aplicação do fundo Adam Macro?;Resolvido;11;Julia Santos
+TK-20250213;11/07/2025;Telefone;Onboarding - Cadastro;Como abro minha conta na corretora?;Em andamento;16;Marina Costa
+TK-20250214;20/01/2025;Chat;Operacional - Aplicação;Aplicação não aparece na minha carteira ainda;Pendente;5;Marina Costa
+TK-20250215;17/11/2025;Chat;Tributário - Come-cotas;Como funciona o come-cotas com a nova lei?;Resolvido;8;Julia Santos
+TK-20250216;20/05/2025;Chat;Tributário - Come-cotas;O imposto do come-cotas já foi descontado?;Pendente;9;Ana Silva
+TK-20250217;09/03/2025;WhatsApp;Tributário - Informe IR;O informe de rendimentos está errado;Em andamento;12;Julia Santos
+TK-20250218;14/11/2025;Telefone;Informacional - Extrato;Como exporto meu extrato em PDF?;Resolvido;6;Pedro Lima
+TK-20250219;26/02/2025;Chat;Onboarding - Cadastro;Meu cadastro está pendente, o que falta?;Resolvido;6;Pedro Lima
+TK-20250220;30/08/2025;WhatsApp;Operacional - Aplicação;Aplicação não aparece na minha carteira ainda;Resolvido;10;Ana Silva
+TK-20250221;17/11/2025;E-mail;Tributário - Come-cotas;Come-cotas diminuiu meu patrimônio, perdi dinheiro?;Resolvido;6;Julia Santos
+TK-20250222;16/05/2025;E-mail;Regulatório - Atualização cadastral;Minha conta foi bloqueada por pendência cadastral;Resolvido;6;Carlos Souza
+TK-20250223;27/12/2025;Chat;Operacional - Portabilidade;Como funciona a portabilidade de fundos?;Resolvido;2;Pedro Lima
+TK-20250224;13/12/2025;E-mail;Pós-venda - Recomendação;Tem algum fundo melhor que o CDB do banco?;Resolvido;15;Pedro Lima
+TK-20250225;10/02/2025;Chat;Pós-venda - Recomendação;Quero diversificar, o que sugerem?;Resolvido;14;Pedro Lima
+TK-20250226;12/03/2025;Chat;Onboarding - Cadastro;Não consigo enviar meus documentos;Resolvido;7;Julia Santos
+TK-20250227;26/04/2025;E-mail;Operacional - Portabilidade;Quero transferir meus fundos de outra corretora;Resolvido;2;Ana Silva
+TK-20250228;28/07/2025;Telefone;Operacional - Resgate;Investidor perguntando sobre prazo de liquidação do resgate;Pendente;11;Pedro Lima
+TK-20250229;27/11/2025;Chat;Técnico - Acesso;Esqueci minha senha, como recupero?;Em andamento;10;Ana Silva
+TK-20250230;19/01/2025;WhatsApp;Onboarding - Suitability;Por que preciso preencher questionário de perfil?;Pendente;16;Pedro Lima
+TK-20250231;18/10/2025;E-mail;Operacional - Aplicação;Qual o valor mínimo de aplicação do fundo XP Ref DI?;Resolvido;2;Marina Costa
+TK-20250232;20/05/2025;Chat;Tributário - Come-cotas;Como funciona o come-cotas com a nova lei?;Resolvido;13;Pedro Lima
+TK-20250233;01/06/2025;E-mail;Técnico - Erro plataforma;Plataforma fora do ar?;Resolvido;5;Carlos Souza
+TK-20250234;25/07/2025;Telefone;Informacional - Rentabilidade;Meu fundo rendeu negativo, o que aconteceu?;Resolvido;1;Carlos Souza
+TK-20250235;16/07/2025;Chat;Informacional - Extrato;O extrato não mostra as movimentações de maio;Resolvido;2;Marina Costa
+TK-20250236;01/05/2025;Chat;Operacional - Resgate;Cadê meu dinheiro? Solicitei resgate há 6 dias;Pendente;14;Ana Silva
+TK-20250237;27/12/2025;Telefone;Informacional - Rentabilidade;A rentabilidade do meu fundo está abaixo do CDI, por quê?;Resolvido;3;Ana Silva
+TK-20250238;07/11/2025;Chat;Operacional - Resgate;Resgate do fundo Itaú Multimercado não caiu na conta ainda;Pendente;10;Julia Santos
+TK-20250239;11/02/2025;E-mail;Pós-venda - Recomendação;Quero diversificar, o que sugerem?;Resolvido;19;Julia Santos
+TK-20250240;02/10/2025;Chat;Operacional - Resgate;Qual o prazo de resgate do fundo Adam Macro?;Em andamento;10;Marina Costa
+TK-20250241;26/10/2025;E-mail;Informacional - Extrato;Não estou conseguindo ver meu extrato de Absolute Vertex;Pendente;6;Julia Santos
+TK-20250242;26/11/2025;Chat;Tributário - Come-cotas;Como funciona o come-cotas com a nova lei?;Resolvido;7;Marina Costa
+TK-20250243;05/08/2025;Chat;Pós-venda - Insatisfação rentabilidade;A rentabilidade prometida era diferente do que estou tendo;Em andamento;24;Ana Silva
+TK-20250244;03/04/2025;Telefone;Operacional - Resgate;Resgate do fundo XP Ref DI não caiu na conta ainda;Resolvido;7;Pedro Lima
+TK-20250245;16/12/2025;WhatsApp;Informacional - Rentabilidade;Meu fundo rendeu negativo, o que aconteceu?;Resolvido;2;Julia Santos
+TK-20250246;25/04/2025;Telefone;Operacional - Aplicação;Aplicação não aparece na minha carteira ainda;Resolvido;4;Ana Silva
+TK-20250247;07/05/2025;E-mail;Informacional - Extrato;Preciso do extrato detalhado para meu contador;Resolvido;8;Carlos Souza
+TK-20250248;03/08/2025;E-mail;Pós-venda - Recomendação;Qual fundo vocês recomendam para perfil conservador?;Resolvido;22;Ana Silva
+TK-20250249;17/08/2025;E-mail;Operacional - Aplicação;Como faço para aplicar no fundo BTG Tesouro Selic?;Resolvido;7;Ana Silva
+TK-20250250;29/05/2025;Chat;Operacional - Aplicação;Tentei aplicar mas apareceu erro na plataforma;Resolvido;3;Julia Santos
+TK-20250251;10/03/2025;Chat;Tributário - Informe IR;O informe de rendimentos está errado;Em andamento;18;Julia Santos
+TK-20250252;26/06/2025;WhatsApp;Técnico - Acesso;O app não abre, fica carregando;Em andamento;3;Pedro Lima
+TK-20250253;12/07/2025;Chat;Informacional - Rentabilidade;Meu fundo rendeu negativo, o que aconteceu?;Pendente;5;Julia Santos
+TK-20250254;30/01/2025;E-mail;Onboarding - Suitability;Meu perfil não me deixa investir no fundo Itaú Multimercado;Em andamento;12;Pedro Lima
+TK-20250255;22/05/2025;Telefone;Tributário - Come-cotas;Come-cotas diminuiu meu patrimônio, perdi dinheiro?;Em andamento;11;Ana Silva
+TK-20250256;21/01/2025;WhatsApp;Operacional - Portabilidade;Portabilidade travada, preciso de ajuda;Em andamento;5;Carlos Souza
+TK-20250257;05/06/2025;WhatsApp;Pós-venda - Insatisfação rentabilidade;A rentabilidade prometida era diferente do que estou tendo;Resolvido;24;Ana Silva
+TK-20250258;27/12/2025;Chat;Operacional - Resgate;Resgate do fundo Verde AM não caiu na conta ainda;Em andamento;4;Carlos Souza
+TK-20250259;29/11/2025;Chat;Informacional - Rentabilidade;Onde vejo a rentabilidade consolidada da minha carteira?;Resolvido;1;Marina Costa
+TK-20250260;09/07/2025;Chat;Operacional - Resgate;Resgate do fundo Kinea Renda Fixa não caiu na conta ainda;Em andamento;7;Ana Silva
+TK-20250261;14/05/2025;E-mail;Regulatório - Atualização cadastral;Recebi e-mail pedindo atualização de dados, é verdade?;Em andamento;7;Julia Santos
+TK-20250262;06/05/2025;E-mail;Operacional - Aplicação;Qual o valor mínimo de aplicação do fundo Verde AM?;Resolvido;4;Marina Costa
+TK-20250263;09/09/2025;E-mail;Pós-venda - Recomendação;Preciso de ajuda para montar minha carteira;Resolvido;18;Marina Costa
+TK-20250264;09/12/2025;Chat;Operacional - Aplicação;Como faço para aplicar no fundo Adam Macro?;Pendente;11;Ana Silva
+TK-20250265;05/01/2025;Chat;Operacional - Resgate;Investidor perguntando sobre prazo de liquidação do resgate;Resolvido;13;Pedro Lima
+TK-20250266;01/03/2025;Chat;Tributário - Informe IR;Como declaro fundos de investimento no IR?;Em andamento;14;Marina Costa
+TK-20250267;12/12/2025;E-mail;Operacional - Portabilidade;Quero transferir meus fundos de outra corretora;Resolvido;12;Carlos Souza
+TK-20250268;01/07/2025;Chat;Operacional - Portabilidade;Status da portabilidade que solicitei há 9 dias;Resolvido;5;Pedro Lima
+TK-20250269;23/12/2025;Chat;Informacional - Rentabilidade;Meu fundo rendeu negativo, o que aconteceu?;Resolvido;8;Ana Silva
+TK-20250270;28/11/2025;E-mail;Tributário - Come-cotas;Como funciona o come-cotas com a nova lei?;Em andamento;14;Marina Costa
+TK-20250271;28/04/2025;Chat;Onboarding - Suitability;Por que preciso preencher questionário de perfil?;Pendente;8;Julia Santos
+TK-20250272;17/01/2025;Chat;Técnico - Erro plataforma;Tela de investimentos não carrega;Resolvido;19;Marina Costa
+TK-20250273;09/02/2025;Chat;Operacional - Aplicação;Tentei aplicar mas apareceu erro na plataforma;Resolvido;1;Julia Santos
+TK-20250274;13/03/2025;Telefone;Técnico - Acesso;Minha conta foi bloqueada;Em andamento;6;Ana Silva
+TK-20250275;29/04/2025;Telefone;Pós-venda - Insatisfação rentabilidade;Estou insatisfeito com o fundo XP Ref DI;Em andamento;16;Marina Costa
+TK-20250276;19/08/2025;E-mail;Informacional - Rentabilidade;Onde vejo a rentabilidade consolidada da minha carteira?;Em andamento;1;Marina Costa
+TK-20250277;05/12/2025;Chat;Informacional - Rentabilidade;Meu fundo rendeu negativo, o que aconteceu?;Resolvido;6;Julia Santos
+TK-20250278;21/11/2025;Chat;Operacional - Resgate;Cadê meu dinheiro? Solicitei resgate há 7 dias;Resolvido;1;Pedro Lima
+TK-20250279;16/08/2025;Chat;Informacional - Rentabilidade;Quanto rendeu meu fundo BTG Tesouro Selic este mês?;Resolvido;6;Marina Costa
+TK-20250280;01/07/2025;E-mail;Informacional - Extrato;Preciso do extrato detalhado para meu contador;Em andamento;6;Julia Santos
+TK-20250281;31/07/2025;Chat;Pós-venda - Recomendação;Tem algum fundo melhor que o CDB do banco?;Em andamento;24;Ana Silva
+TK-20250282;16/03/2025;Chat;Tributário - Informe IR;Onde baixo o informe de rendimentos?;Pendente;5;Carlos Souza
+TK-20250283;04/07/2025;Chat;Operacional - Portabilidade;Portabilidade travada, preciso de ajuda;Pendente;5;Carlos Souza
+TK-20250284;20/06/2025;Telefone;Operacional - Resgate;Investidor perguntando sobre prazo de liquidação do resgate;Resolvido;6;Pedro Lima
+TK-20250285;01/11/2025;Chat;Informacional - Extrato;O extrato não mostra as movimentações de novembro;Em andamento;7;Marina Costa
+TK-20250286;22/12/2025;E-mail;Informacional - Rentabilidade;A rentabilidade do meu fundo está abaixo do CDI, por quê?;Resolvido;4;Julia Santos
+TK-20250287;06/07/2025;Chat;Informacional - Rentabilidade;Meu fundo rendeu negativo, o que aconteceu?;Resolvido;1;Julia Santos
+TK-20250288;18/04/2025;E-mail;Técnico - Erro plataforma;Erro ao tentar acessar a carteira de fundos;Resolvido;7;Marina Costa
+TK-20250289;21/11/2025;Chat;Onboarding - Cadastro;Quanto tempo demora para abrir a conta?;Resolvido;8;Marina Costa
+TK-20250290;25/07/2025;E-mail;Operacional - Resgate;Resgate do fundo Kapitalo Kappa não caiu na conta ainda;Em andamento;1;Pedro Lima
+TK-20250291;01/11/2025;E-mail;Operacional - Resgate;Cadê meu dinheiro? Solicitei resgate há 15 dias;Resolvido;8;Ana Silva
+TK-20250292;16/10/2025;WhatsApp;Informacional - Rentabilidade;A rentabilidade do meu fundo está abaixo do CDI, por quê?;Resolvido;1;Pedro Lima
+TK-20250293;13/05/2025;Chat;Pós-venda - Recomendação;Preciso de ajuda para montar minha carteira;Em andamento;10;Julia Santos
+TK-20250294;29/10/2025;Telefone;Informacional - Extrato;O extrato não mostra as movimentações de novembro;Resolvido;2;Carlos Souza
+TK-20250295;13/02/2025;Chat;Operacional - Resgate;Resgate do fundo BTG Tesouro Selic não caiu na conta ainda;Resolvido;6;Carlos Souza
+TK-20250296;13/08/2025;Telefone;Operacional - Aplicação;Aplicação não aparece na minha carteira ainda;Resolvido;12;Pedro Lima
+TK-20250297;28/02/2025;Chat;Operacional - Resgate;Cadê meu dinheiro? Solicitei resgate há 13 dias;Resolvido;6;Marina Costa
+TK-20250298;23/03/2025;Chat;Pós-venda - Insatisfação rentabilidade;A rentabilidade prometida era diferente do que estou tendo;Pendente;12;Pedro Lima
+TK-20250299;24/11/2025;Telefone;Operacional - Aplicação;Aplicação não aparece na minha carteira ainda;Resolvido;7;Pedro Lima
+TK-20250300;20/04/2025;Chat;Informacional - Extrato;Preciso do extrato detalhado para meu contador;Em andamento;1;Ana Silva
+TK-20250301;11/04/2025;E-mail;Operacional - Resgate;Qual o prazo de resgate do fundo Itaú Multimercado?;Pendente;2;Marina Costa
+TK-20250302;20/03/2025;Chat;Tributário - Informe IR;Como declaro fundos de investimento no IR?;Em andamento;11;Marina Costa
+TK-20250303;06/02/2025;Chat;Tributário - Informe IR;Preciso do informe de rendimentos para declarar IR;Em andamento;7;Carlos Souza
+TK-20250304;06/04/2025;E-mail;Tributário - Informe IR;Como declaro fundos de investimento no IR?;Resolvido;15;Pedro Lima
+TK-20250305;14/11/2025;Chat;Operacional - Resgate;Investidor perguntando sobre prazo de liquidação do resgate;Resolvido;5;Marina Costa
+TK-20250306;29/07/2025;Telefone;Informacional - Rentabilidade;Como comparar a rentabilidade do meu fundo com o benchmark?;Pendente;5;Pedro Lima
+TK-20250307;23/04/2025;Chat;Informacional - Extrato;Como exporto meu extrato em PDF?;Resolvido;2;Marina Costa
+TK-20250308;21/10/2025;Chat;Informacional - Extrato;Preciso do extrato detalhado para meu contador;Resolvido;4;Julia Santos
+TK-20250309;22/04/2025;Chat;Tributário - Come-cotas;O que é come-cotas? Vi que minhas cotas diminuíram;Resolvido;12;Carlos Souza
+TK-20250310;02/05/2025;Chat;Operacional - Portabilidade;Como funciona a portabilidade de fundos?;Resolvido;7;Julia Santos
+TK-20250311;26/03/2025;E-mail;Regulatório - Atualização cadastral;Minha conta foi bloqueada por pendência cadastral;Resolvido;9;Carlos Souza
+TK-20250312;15/06/2025;Chat;Tributário - Come-cotas;Quando acontece o come-cotas?;Resolvido;7;Julia Santos
+TK-20250313;11/03/2025;WhatsApp;Onboarding - Suitability;Meu perfil não me deixa investir no fundo Absolute Vertex;Resolvido;18;Pedro Lima
+TK-20250314;14/06/2025;Telefone;Operacional - Resgate;Investidor perguntando sobre prazo de liquidação do resgate;Pendente;7;Pedro Lima
+TK-20250315;20/08/2025;Chat;Operacional - Aplicação;Qual o valor mínimo de aplicação do fundo Absolute Vertex?;Pendente;4;Ana Silva
+TK-20250316;25/10/2025;Chat;Regulatório - Atualização cadastral;Como atualizo meus dados cadastrais?;Pendente;7;Ana Silva
+TK-20250317;23/07/2025;Chat;Técnico - Acesso;Minha conta foi bloqueada;Resolvido;6;Pedro Lima
+TK-20250318;17/10/2025;WhatsApp;Operacional - Portabilidade;Como funciona a portabilidade de fundos?;Resolvido;8;Marina Costa
+TK-20250319;09/01/2025;Chat;Operacional - Resgate;Cliente quer saber quando cai o resgate do fundo Absolute Vertex;Pendente;1;Carlos Souza
+TK-20250320;29/11/2025;Chat;Informacional - Extrato;Como exporto meu extrato em PDF?;Resolvido;8;Marina Costa
+TK-20250321;07/12/2025;WhatsApp;Técnico - Acesso;Minha conta foi bloqueada;Resolvido;7;Carlos Souza
+TK-20250322;27/12/2025;Chat;Técnico - Erro plataforma;Plataforma fora do ar?;Pendente;12;Carlos Souza
+TK-20250323;15/12/2025;E-mail;Operacional - Resgate;Investidor perguntando sobre prazo de liquidação do resgate;Resolvido;12;Ana Silva
+TK-20250324;16/07/2025;Chat;Informacional - Extrato;Como exporto meu extrato em PDF?;Resolvido;1;Ana Silva
+TK-20250325;10/03/2025;E-mail;Informacional - Rentabilidade;Onde vejo a rentabilidade consolidada da minha carteira?;Resolvido;4;Carlos Souza
+TK-20250326;20/04/2025;E-mail;Técnico - Acesso;Esqueci minha senha, como recupero?;Pendente;9;Carlos Souza
+TK-20250327;13/03/2025;E-mail;Tributário - Informe IR;Como declaro fundos de investimento no IR?;Resolvido;15;Pedro Lima
+TK-20250328;08/05/2025;E-mail;Operacional - Resgate;Investidor perguntando sobre prazo de liquidação do resgate;Em andamento;7;Julia Santos
+TK-20250329;16/04/2025;E-mail;Operacional - Portabilidade;Quero transferir meus fundos de outra corretora;Resolvido;7;Julia Santos
+TK-20250330;04/05/2025;E-mail;Operacional - Resgate;Investidor perguntando sobre prazo de liquidação do resgate;Resolvido;4;Julia Santos
+TK-20250331;20/11/2025;E-mail;Tributário - Come-cotas;O que é come-cotas? Vi que minhas cotas diminuíram;Pendente;18;Carlos Souza
+TK-20250332;21/04/2025;Chat;Operacional - Resgate;Qual o prazo de resgate do fundo BTG Tesouro Selic?;Pendente;6;Ana Silva
+TK-20250333;16/11/2025;E-mail;Tributário - Come-cotas;Quando acontece o come-cotas?;Em andamento;12;Julia Santos
+TK-20250334;02/10/2025;Chat;Operacional - Resgate;Qual o prazo de resgate do fundo Verde AM?;Resolvido;9;Julia Santos
+TK-20250335;30/01/2025;Chat;Informacional - Rentabilidade;Meu fundo rendeu negativo, o que aconteceu?;Resolvido;1;Pedro Lima
+TK-20250336;12/03/2025;Telefone;Informacional - Rentabilidade;A rentabilidade do meu fundo está abaixo do CDI, por quê?;Pendente;6;Carlos Souza
+TK-20250337;13/05/2025;Chat;Informacional - Rentabilidade;Como comparar a rentabilidade do meu fundo com o benchmark?;Resolvido;4;Carlos Souza
+TK-20250338;02/02/2025;Chat;Operacional - Resgate;Cadê meu dinheiro? Solicitei resgate há 5 dias;Resolvido;6;Julia Santos
+TK-20250339;13/09/2025;Chat;Tributário - Come-cotas;Como funciona o come-cotas com a nova lei?;Resolvido;13;Carlos Souza
+TK-20250340;02/01/2025;Chat;Técnico - Acesso;Não consigo fazer login na plataforma;Resolvido;1;Ana Silva
+TK-20250341;02/04/2025;WhatsApp;Operacional - Resgate;Resgate do fundo Kinea Renda Fixa não caiu na conta ainda;Em andamento;10;Ana Silva
+TK-20250342;02/08/2025;WhatsApp;Técnico - Acesso;O app não abre, fica carregando;Resolvido;4;Marina Costa
+TK-20250343;15/09/2025;Telefone;Onboarding - Cadastro;Como abro minha conta na corretora?;Resolvido;10;Ana Silva
+TK-20250344;25/05/2025;Telefone;Operacional - Resgate;Resgate do fundo BTG Tesouro Selic não caiu na conta ainda;Resolvido;12;Marina Costa
+TK-20250345;13/04/2025;Chat;Operacional - Resgate;Qual o prazo de resgate do fundo Dynamo Cougar?;Em andamento;8;Marina Costa
+TK-20250346;15/11/2025;Chat;Tributário - Come-cotas;Come-cotas diminuiu meu patrimônio, perdi dinheiro?;Resolvido;15;Marina Costa
+TK-20250347;07/06/2025;Chat;Informacional - Rentabilidade;Quanto rendeu meu fundo Absolute Vertex este mês?;Resolvido;1;Julia Santos
+TK-20250348;24/09/2025;E-mail;Operacional - Aplicação;Qual o valor mínimo de aplicação do fundo BTG Tesouro Selic?;Pendente;12;Marina Costa
+TK-20250349;10/03/2025;E-mail;Pós-venda - Insatisfação rentabilidade;Meu fundo só perde dinheiro, quero resgatar tudo;Resolvido;13;Pedro Lima
+TK-20250350;11/06/2025;WhatsApp;Técnico - Acesso;Esqueci minha senha, como recupero?;Resolvido;9;Pedro Lima
+TK-20250351;14/04/2025;Chat;Informacional - Rentabilidade;Meu fundo rendeu negativo, o que aconteceu?;Resolvido;6;Julia Santos
+TK-20250352;03/07/2025;WhatsApp;Informacional - Extrato;O extrato não mostra as movimentações de setembro;Pendente;6;Carlos Souza
+TK-20250353;16/02/2025;Chat;Informacional - Rentabilidade;Meu fundo rendeu negativo, o que aconteceu?;Em andamento;12;Marina Costa
+TK-20250354;02/07/2025;Chat;Informacional - Rentabilidade;A rentabilidade do meu fundo está abaixo do CDI, por quê?;Resolvido;6;Ana Silva
+TK-20250355;12/10/2025;Telefone;Operacional - Portabilidade;Status da portabilidade que solicitei há 7 dias;Resolvido;1;Carlos Souza
+TK-20250356;08/03/2025;Chat;Operacional - Resgate;Cliente quer saber quando cai o resgate do fundo XP Ref DI;Resolvido;9;Pedro Lima
+TK-20250357;08/02/2025;Chat;Técnico - Erro plataforma;Erro ao tentar acessar a carteira de fundos;Resolvido;13;Ana Silva
+TK-20250358;25/08/2025;Chat;Operacional - Resgate;Cliente quer saber quando cai o resgate do fundo Kinea Renda Fixa;Pendente;5;Julia Santos
+TK-20250359;16/12/2025;E-mail;Onboarding - Cadastro;Quanto tempo demora para abrir a conta?;Resolvido;12;Marina Costa
+TK-20250360;12/11/2025;Chat;Informacional - Extrato;Como exporto meu extrato em PDF?;Pendente;3;Marina Costa
+TK-20250361;24/05/2025;Chat;Informacional - Rentabilidade;Como comparar a rentabilidade do meu fundo com o benchmark?;Resolvido;1;Pedro Lima
+TK-20250362;03/07/2025;E-mail;Operacional - Portabilidade;Quero transferir meus fundos de outra corretora;Resolvido;2;Pedro Lima
+TK-20250363;01/02/2025;WhatsApp;Tributário - Informe IR;O informe de rendimentos está errado;Resolvido;13;Marina Costa
+TK-20250364;07/05/2025;Telefone;Informacional - Rentabilidade;Como comparar a rentabilidade do meu fundo com o benchmark?;Em andamento;1;Marina Costa
+TK-20250365;01/07/2025;WhatsApp;Onboarding - Cadastro;Como abro minha conta na corretora?;Resolvido;10;Carlos Souza
+TK-20250366;25/12/2025;Chat;Pós-venda - Insatisfação rentabilidade;Estou insatisfeito com o fundo Kapitalo Kappa;Em andamento;18;Julia Santos
+TK-20250367;31/03/2025;E-mail;Operacional - Aplicação;Tentei aplicar mas apareceu erro na plataforma;Resolvido;8;Ana Silva
+TK-20250368;14/04/2025;Chat;Tributário - Come-cotas;Como funciona o come-cotas com a nova lei?;Resolvido;14;Carlos Souza
+TK-20250369;14/03/2025;Telefone;Operacional - Resgate;Cliente quer saber quando cai o resgate do fundo Itaú Multimercado;Resolvido;11;Julia Santos
+TK-20250370;04/06/2025;Chat;Técnico - Acesso;O app não abre, fica carregando;Pendente;9;Carlos Souza
+TK-20250371;29/12/2025;WhatsApp;Pós-venda - Recomendação;Preciso de ajuda para montar minha carteira;Resolvido;15;Julia Santos
+TK-20250372;31/05/2025;Chat;Operacional - Aplicação;Aplicação não aparece na minha carteira ainda;Em andamento;13;Ana Silva
+TK-20250373;12/06/2025;WhatsApp;Informacional - Rentabilidade;Como comparar a rentabilidade do meu fundo com o benchmark?;Resolvido;3;Julia Santos
+TK-20250374;17/11/2025;E-mail;Tributário - Come-cotas;Come-cotas diminuiu meu patrimônio, perdi dinheiro?;Resolvido;10;Ana Silva
+TK-20250375;21/12/2025;Chat;Informacional - Extrato;Não estou conseguindo ver meu extrato de SPX Nimitz;Resolvido;4;Marina Costa
+TK-20250376;10/09/2025;WhatsApp;Informacional - Extrato;Preciso do extrato detalhado para meu contador;Em andamento;3;Marina Costa
+TK-20250377;30/11/2025;Telefone;Informacional - Rentabilidade;Quanto rendeu meu fundo Dynamo Cougar este mês?;Resolvido;1;Carlos Souza
+TK-20250378;23/02/2025;Chat;Operacional - Resgate;Cadê meu dinheiro? Solicitei resgate há 6 dias;Pendente;10;Carlos Souza
+TK-20250379;23/06/2025;E-mail;Operacional - Aplicação;Como faço para aplicar no fundo Adam Macro?;Pendente;6;Julia Santos
+TK-20250380;22/03/2025;Chat;Técnico - Acesso;Esqueci minha senha, como recupero?;Resolvido;5;Marina Costa
+TK-20250381;04/10/2025;Chat;Operacional - Aplicação;Aplicação não aparece na minha carteira ainda;Resolvido;8;Marina Costa
+TK-20250382;27/03/2025;Telefone;Tributário - Informe IR;Como declaro fundos de investimento no IR?;Pendente;13;Julia Santos
+TK-20250383;23/11/2025;Chat;Operacional - Aplicação;Como faço para aplicar no fundo XP Ref DI?;Pendente;9;Ana Silva
+TK-20250384;16/05/2025;Chat;Informacional - Rentabilidade;Meu fundo rendeu negativo, o que aconteceu?;Pendente;2;Julia Santos
+TK-20250385;17/08/2025;Chat;Operacional - Aplicação;Qual o valor mínimo de aplicação do fundo Alaska Black?;Pendente;7;Pedro Lima
+TK-20250386;12/04/2025;Telefone;Tributário - Informe IR;Preciso do informe de rendimentos para declarar IR;Em andamento;19;Pedro Lima
+TK-20250387;03/08/2025;WhatsApp;Operacional - Aplicação;Como faço para aplicar no fundo Alaska Black?;Em andamento;11;Pedro Lima
+TK-20250388;20/10/2025;WhatsApp;Operacional - Resgate;Resgate do fundo JGP Strategy não caiu na conta ainda;Em andamento;4;Julia Santos
+TK-20250389;19/04/2025;Telefone;Operacional - Aplicação;Como faço para aplicar no fundo Dynamo Cougar?;Resolvido;1;Carlos Souza
+TK-20250390;13/05/2025;Chat;Informacional - Extrato;Como exporto meu extrato em PDF?;Resolvido;10;Ana Silva
+TK-20250391;22/05/2025;E-mail;Informacional - Rentabilidade;Como comparar a rentabilidade do meu fundo com o benchmark?;Em andamento;1;Ana Silva
+TK-20250392;29/10/2025;E-mail;Operacional - Resgate;Resgate do fundo Itaú Multimercado não caiu na conta ainda;Resolvido;4;Ana Silva
+TK-20250393;26/06/2025;Chat;Tributário - Informe IR;Preciso do informe de rendimentos para declarar IR;Em andamento;11;Pedro Lima
+TK-20250394;15/12/2025;Telefone;Operacional - Portabilidade;Portabilidade travada, preciso de ajuda;Pendente;7;Ana Silva
+TK-20250395;01/09/2025;WhatsApp;Regulatório - Atualização cadastral;Como atualizo meus dados cadastrais?;Resolvido;4;Marina Costa
+TK-20250396;17/12/2025;Chat;Informacional - Rentabilidade;Onde vejo a rentabilidade consolidada da minha carteira?;Resolvido;11;Carlos Souza
+TK-20250397;02/08/2025;E-mail;Informacional - Rentabilidade;Meu fundo rendeu negativo, o que aconteceu?;Resolvido;1;Ana Silva
+TK-20250398;29/01/2025;E-mail;Informacional - Rentabilidade;Meu fundo rendeu negativo, o que aconteceu?;Resolvido;8;Carlos Souza
+TK-20250399;19/10/2025;Chat;Informacional - Rentabilidade;Como comparar a rentabilidade do meu fundo com o benchmark?;Resolvido;6;Carlos Souza
+TK-20250400;21/05/2025;Chat;Informacional - Extrato;Não estou conseguindo ver meu extrato de Kinea Renda Fixa;Em andamento;2;Pedro Lima
+TK-20250401;10/07/2025;E-mail;Informacional - Rentabilidade;Quanto rendeu meu fundo Absolute Vertex este mês?;Resolvido;9;Pedro Lima
+TK-20250402;21/05/2025;Chat;Tributário - Come-cotas;Quando acontece o come-cotas?;Resolvido;10;Julia Santos
+TK-20250403;16/04/2025;Chat;Onboarding - Suitability;Por que preciso preencher questionário de perfil?;Em andamento;16;Pedro Lima
+TK-20250404;28/11/2025;Chat;Pós-venda - Recomendação;Qual fundo vocês recomendam para perfil conservador?;Resolvido;15;Ana Silva
+TK-20250405;21/05/2025;E-mail;Operacional - Portabilidade;Como funciona a portabilidade de fundos?;Resolvido;5;Pedro Lima
+TK-20250406;22/02/2025;Chat;Informacional - Rentabilidade;Como comparar a rentabilidade do meu fundo com o benchmark?;Em andamento;5;Marina Costa
+TK-20250407;04/09/2025;Chat;Técnico - Acesso;Minha conta foi bloqueada;Resolvido;12;Marina Costa
+TK-20250408;04/05/2025;WhatsApp;Técnico - Erro plataforma;Tela de investimentos não carrega;Pendente;7;Julia Santos
+TK-20250409;14/01/2025;Telefone;Técnico - Acesso;Minha conta foi bloqueada;Resolvido;13;Marina Costa
+TK-20250410;08/04/2025;Chat;Pós-venda - Insatisfação rentabilidade;Meu fundo só perde dinheiro, quero resgatar tudo;Em andamento;12;Carlos Souza
+TK-20250411;03/06/2025;Telefone;Técnico - Acesso;O app não abre, fica carregando;Resolvido;8;Julia Santos
+TK-20250412;04/04/2025;WhatsApp;Pós-venda - Insatisfação rentabilidade;Estou insatisfeito com o fundo JGP Strategy;Resolvido;19;Marina Costa
+TK-20250413;04/08/2025;Telefone;Operacional - Aplicação;Qual o valor mínimo de aplicação do fundo Verde AM?;Resolvido;7;Marina Costa
+TK-20250414;26/10/2025;E-mail;Onboarding - Suitability;Por que preciso preencher questionário de perfil?;Resolvido;13;Julia Santos
+TK-20250415;15/07/2025;E-mail;Informacional - Extrato;Como exporto meu extrato em PDF?;Resolvido;6;Pedro Lima
+TK-20250416;15/03/2025;Chat;Operacional - Aplicação;Qual o valor mínimo de aplicação do fundo Alaska Black?;Resolvido;6;Carlos Souza
+TK-20250417;21/11/2025;Chat;Informacional - Extrato;O extrato não mostra as movimentações de junho;Resolvido;6;Pedro Lima
+TK-20250418;14/04/2025;E-mail;Tributário - Informe IR;Onde baixo o informe de rendimentos?;Pendente;18;Pedro Lima
+TK-20250419;11/07/2025;WhatsApp;Operacional - Resgate;Cliente quer saber quando cai o resgate do fundo Adam Macro;Em andamento;10;Marina Costa
+TK-20250420;09/06/2025;Chat;Técnico - Acesso;Esqueci minha senha, como recupero?;Em andamento;15;Pedro Lima
+TK-20250421;02/06/2025;E-mail;Tributário - Informe IR;O informe de rendimentos está errado;Em andamento;7;Julia Santos
+TK-20250422;03/07/2025;Telefone;Técnico - Erro plataforma;Plataforma fora do ar?;Pendente;9;Carlos Souza
+TK-20250423;19/04/2025;Telefone;Operacional - Resgate;Investidor perguntando sobre prazo de liquidação do resgate;Em andamento;9;Julia Santos
+TK-20250424;11/05/2025;Telefone;Técnico - Acesso;Não consigo fazer login na plataforma;Resolvido;13;Julia Santos
+TK-20250425;14/02/2025;E-mail;Tributário - Informe IR;Preciso do informe de rendimentos para declarar IR;Em andamento;11;Ana Silva
+TK-20250426;21/02/2025;Telefone;Operacional - Aplicação;Como faço para aplicar no fundo SPX Nimitz?;Em andamento;14;Marina Costa
+TK-20250427;19/09/2025;Chat;Tributário - Informe IR;Onde baixo o informe de rendimentos?;Resolvido;6;Ana Silva
+TK-20250428;27/12/2025;E-mail;Pós-venda - Recomendação;Tem algum fundo melhor que o CDB do banco?;Resolvido;15;Carlos Souza
+TK-20250429;25/05/2025;Chat;Tributário - Come-cotas;Como funciona o come-cotas com a nova lei?;Em andamento;10;Ana Silva
+TK-20250430;21/02/2025;WhatsApp;Operacional - Resgate;Qual o prazo de resgate do fundo BTG Tesouro Selic?;Pendente;6;Carlos Souza
+TK-20250431;31/03/2025;WhatsApp;Operacional - Portabilidade;Como funciona a portabilidade de fundos?;Resolvido;9;Marina Costa
+TK-20250432;05/01/2025;WhatsApp;Pós-venda - Insatisfação rentabilidade;Meu fundo só perde dinheiro, quero resgatar tudo;Resolvido;11;Carlos Souza
+TK-20250433;17/02/2025;Chat;Informacional - Rentabilidade;Meu fundo rendeu negativo, o que aconteceu?;Resolvido;8;Marina Costa
+TK-20250434;04/08/2025;E-mail;Informacional - Extrato;O extrato não mostra as movimentações de agosto;Resolvido;7;Carlos Souza
+TK-20250435;30/10/2025;E-mail;Operacional - Resgate;Cliente quer saber quando cai o resgate do fundo Itaú Multimercado;Pendente;9;Julia Santos
+TK-20250436;08/03/2025;E-mail;Informacional - Rentabilidade;Como comparar a rentabilidade do meu fundo com o benchmark?;Resolvido;8;Pedro Lima
+TK-20250437;14/05/2025;Telefone;Regulatório - Atualização cadastral;Como atualizo meus dados cadastrais?;Em andamento;8;Ana Silva
+TK-20250438;20/04/2025;Chat;Tributário - Informe IR;Onde baixo o informe de rendimentos?;Pendente;6;Carlos Souza
+TK-20250439;10/11/2025;Chat;Informacional - Rentabilidade;Meu fundo rendeu negativo, o que aconteceu?;Em andamento;9;Carlos Souza
+TK-20250440;14/06/2025;Chat;Regulatório - Atualização cadastral;Recebi e-mail pedindo atualização de dados, é verdade?;Resolvido;1;Marina Costa
+TK-20250441;26/07/2025;Chat;Tributário - Come-cotas;Come-cotas diminuiu meu patrimônio, perdi dinheiro?;Em andamento;4;Pedro Lima
+TK-20250442;01/12/2025;Chat;Informacional - Extrato;O extrato não mostra as movimentações de dezembro;Pendente;7;Pedro Lima
+TK-20250443;06/11/2025;WhatsApp;Operacional - Resgate;Qual o prazo de resgate do fundo Adam Macro?;Em andamento;2;Marina Costa
+TK-20250444;25/04/2025;Telefone;Informacional - Extrato;O extrato não mostra as movimentações de janeiro;Em andamento;2;Marina Costa
+TK-20250445;20/08/2025;Chat;Pós-venda - Recomendação;Preciso de ajuda para montar minha carteira;Resolvido;10;Carlos Souza
+TK-20250446;26/12/2025;Chat;Onboarding - Cadastro;Não consigo enviar meus documentos;Pendente;16;Carlos Souza
+TK-20250447;11/04/2025;Chat;Operacional - Resgate;Resgate do fundo BTG Tesouro Selic não caiu na conta ainda;Resolvido;1;Pedro Lima
+TK-20250448;24/01/2025;WhatsApp;Técnico - Erro plataforma;Tela de investimentos não carrega;Resolvido;11;Julia Santos
+TK-20250449;16/09/2025;Chat;Pós-venda - Recomendação;Preciso de ajuda para montar minha carteira;Resolvido;13;Pedro Lima
+TK-20250450;21/12/2025;E-mail;Informacional - Extrato;Preciso do extrato detalhado para meu contador;Resolvido;4;Carlos Souza
+TK-20250451;16/09/2025;WhatsApp;Informacional - Rentabilidade;Como comparar a rentabilidade do meu fundo com o benchmark?;Em andamento;10;Pedro Lima
+TK-20250452;10/03/2025;Chat;Operacional - Portabilidade;Portabilidade travada, preciso de ajuda;Em andamento;4;Julia Santos
+TK-20250453;11/10/2025;E-mail;Informacional - Rentabilidade;Como comparar a rentabilidade do meu fundo com o benchmark?;Resolvido;2;Carlos Souza
+TK-20250454;15/09/2025;E-mail;Informacional - Rentabilidade;A rentabilidade do meu fundo está abaixo do CDI, por quê?;Resolvido;2;Marina Costa
+TK-20250455;20/10/2025;WhatsApp;Pós-venda - Recomendação;Tem algum fundo melhor que o CDB do banco?;Em andamento;13;Pedro Lima
+TK-20250456;15/07/2025;Chat;Onboarding - Cadastro;Como abro minha conta na corretora?;Resolvido;17;Ana Silva
+TK-20250457;16/03/2025;Telefone;Operacional - Portabilidade;Status da portabilidade que solicitei há 11 dias;Resolvido;8;Marina Costa
+TK-20250458;15/10/2025;WhatsApp;Onboarding - Cadastro;Quanto tempo demora para abrir a conta?;Pendente;8;Julia Santos
+TK-20250459;15/07/2025;Chat;Operacional - Portabilidade;Como funciona a portabilidade de fundos?;Em andamento;14;Marina Costa
+TK-20250460;27/12/2025;Telefone;Operacional - Aplicação;Aplicação não aparece na minha carteira ainda;Em andamento;10;Marina Costa
+TK-20250461;25/05/2025;Chat;Tributário - Come-cotas;O imposto do come-cotas já foi descontado?;Em andamento;12;Carlos Souza
+TK-20250462;11/05/2025;Chat;Operacional - Portabilidade;Como funciona a portabilidade de fundos?;Resolvido;8;Pedro Lima
+TK-20250463;17/11/2025;E-mail;Operacional - Resgate;Investidor perguntando sobre prazo de liquidação do resgate;Pendente;9;Marina Costa
+TK-20250464;24/09/2025;Chat;Operacional - Resgate;Cadê meu dinheiro? Solicitei resgate há 4 dias;Resolvido;3;Julia Santos
+TK-20250465;20/04/2025;Telefone;Informacional - Extrato;Preciso do extrato detalhado para meu contador;Resolvido;2;Marina Costa
+TK-20250466;05/01/2025;Chat;Técnico - Acesso;O app não abre, fica carregando;Pendente;19;Marina Costa
+TK-20250467;15/07/2025;WhatsApp;Operacional - Portabilidade;Status da portabilidade que solicitei há 11 dias;Pendente;7;Ana Silva
+TK-20250468;17/08/2025;E-mail;Operacional - Resgate;Qual o prazo de resgate do fundo Kinea Renda Fixa?;Resolvido;14;Marina Costa
+TK-20250469;03/10/2025;E-mail;Informacional - Rentabilidade;Como comparar a rentabilidade do meu fundo com o benchmark?;Resolvido;1;Ana Silva
+TK-20250470;16/04/2025;E-mail;Regulatório - Atualização cadastral;Minha conta foi bloqueada por pendência cadastral;Resolvido;1;Pedro Lima
+TK-20250471;19/06/2025;Chat;Pós-venda - Insatisfação rentabilidade;A rentabilidade prometida era diferente do que estou tendo;Resolvido;16;Ana Silva
+TK-20250472;28/07/2025;Chat;Operacional - Resgate;Qual o prazo de resgate do fundo Verde AM?;Pendente;10;Pedro Lima
+TK-20250473;01/10/2025;Chat;Informacional - Rentabilidade;Quanto rendeu meu fundo Alaska Black este mês?;Resolvido;5;Julia Santos
+TK-20250474;24/02/2025;Chat;Técnico - Erro plataforma;Erro ao tentar acessar a carteira de fundos;Em andamento;4;Marina Costa
+TK-20250475;05/12/2025;Chat;Operacional - Resgate;Cadê meu dinheiro? Solicitei resgate há 7 dias;Em andamento;9;Carlos Souza
+TK-20250476;13/12/2025;WhatsApp;Pós-venda - Recomendação;Tem algum fundo melhor que o CDB do banco?;Resolvido;21;Marina Costa
+TK-20250477;23/11/2025;E-mail;Tributário - Come-cotas;O imposto do come-cotas já foi descontado?;Resolvido;13;Ana Silva
+TK-20250478;20/09/2025;Chat;Pós-venda - Insatisfação rentabilidade;Estou insatisfeito com o fundo Verde AM;Resolvido;21;Carlos Souza
+TK-20250479;10/12/2025;WhatsApp;Tributário - Informe IR;O informe de rendimentos está errado;Pendente;11;Julia Santos
+TK-20250480;25/10/2025;E-mail;Técnico - Acesso;Não consigo fazer login na plataforma;Resolvido;8;Marina Costa
+TK-20250481;05/02/2025;WhatsApp;Operacional - Resgate;Investidor perguntando sobre prazo de liquidação do resgate;Pendente;2;Marina Costa
+TK-20250482;06/07/2025;Telefone;Informacional - Rentabilidade;Como comparar a rentabilidade do meu fundo com o benchmark?;Resolvido;6;Pedro Lima
+TK-20250483;31/12/2025;Telefone;Operacional - Resgate;Cadê meu dinheiro? Solicitei resgate há 13 dias;Resolvido;9;Pedro Lima
+TK-20250484;03/07/2025;Telefone;Pós-venda - Insatisfação rentabilidade;Estou insatisfeito com o fundo Dynamo Cougar;Em andamento;13;Pedro Lima
+TK-20250485;24/05/2025;WhatsApp;Operacional - Resgate;Investidor perguntando sobre prazo de liquidação do resgate;Em andamento;10;Carlos Souza
+TK-20250486;17/09/2025;E-mail;Técnico - Acesso;Não consigo fazer login na plataforma;Em andamento;16;Julia Santos
+TK-20250487;10/10/2025;Chat;Informacional - Rentabilidade;Como comparar a rentabilidade do meu fundo com o benchmark?;Pendente;3;Julia Santos
+TK-20250488;10/03/2025;E-mail;Informacional - Rentabilidade;A rentabilidade do meu fundo está abaixo do CDI, por quê?;Resolvido;3;Julia Santos
+TK-20250489;03/05/2025;Telefone;Informacional - Rentabilidade;Onde vejo a rentabilidade consolidada da minha carteira?;Resolvido;5;Julia Santos
+TK-20250490;16/03/2025;Telefone;Operacional - Aplicação;Tentei aplicar mas apareceu erro na plataforma;Resolvido;5;Pedro Lima
+TK-20250491;16/05/2025;Chat;Operacional - Resgate;Investidor perguntando sobre prazo de liquidação do resgate;Resolvido;1;Ana Silva
+TK-20250492;21/01/2025;WhatsApp;Informacional - Rentabilidade;Meu fundo rendeu negativo, o que aconteceu?;Resolvido;4;Marina Costa
+TK-20250493;06/10/2025;E-mail;Técnico - Erro plataforma;Tela de investimentos não carrega;Pendente;6;Pedro Lima
+TK-20250494;25/04/2025;E-mail;Onboarding - Cadastro;Como abro minha conta na corretora?;Resolvido;14;Marina Costa
+TK-20250495;13/03/2025;E-mail;Informacional - Extrato;Preciso do extrato detalhado para meu contador;Resolvido;1;Carlos Souza
+TK-20250496;02/03/2025;Telefone;Operacional - Aplicação;Tentei aplicar mas apareceu erro na plataforma;Resolvido;7;Pedro Lima
+TK-20250497;03/09/2025;Chat;Pós-venda - Insatisfação rentabilidade;Meu fundo só perde dinheiro, quero resgatar tudo;Pendente;16;Carlos Souza
+TK-20250498;21/01/2025;Chat;Tributário - Informe IR;Onde baixo o informe de rendimentos?;Resolvido;12;Carlos Souza
+TK-20250499;10/01/2025;WhatsApp;Operacional - Aplicação;Aplicação não aparece na minha carteira ainda;Resolvido;9;Marina Costa
+TK-20250500;04/11/2025;Chat;Informacional - Extrato;Preciso do extrato detalhado para meu contador;Resolvido;10;Julia Santos
